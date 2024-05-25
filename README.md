@@ -14,6 +14,12 @@ High-performance video server in mini format
 - 1 x VGA
 - 2 x RJ45 LAN port (1000/100/10BASET)
 
+# Product Pictures
+![Views](./Documents/Front%20View%20A.jpg)
+![Views](./Documents/Front%20View%20B.jpg)
+![Views](./Documents/Right%20View.jpg)
+![Views](./Documents/BackView.jpeg)
+
 # MainBoard
 ![SBC](./Documents/PCB%20Functions.png)
 
