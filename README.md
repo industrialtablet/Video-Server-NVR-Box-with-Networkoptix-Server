@@ -14,13 +14,13 @@ High-performance video server in mini format
 - 1 x VGA
 - 2 x RJ45 LAN port (1000/100/10BASET)
 
-# Product Pictures
+# Video Server NVR Box Pictures Show
 ![Views](./Documents/Front%20View%20A.jpg)
 ![Views](./Documents/Front%20View%20B.jpeg)
 ![Views](./Documents/Right%20View.jpg)
 ![Views](./Documents/BackView.jpeg)
 
-# MainBoard
+# Video Server NVR Box MainBoard Show
 ![SBC](./Documents/PCB%20Functions.png)
 
 
