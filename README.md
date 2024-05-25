@@ -16,7 +16,7 @@ High-performance video server in mini format
 
 # Product Pictures
 ![Views](./Documents/Front%20View%20A.jpg)
-![Views](./Documents/Front%20View%20B.jpg)
+![Views](./Documents/Front%20View%20B.jpeg)
 ![Views](./Documents/Right%20View.jpg)
 ![Views](./Documents/BackView.jpeg)
 
