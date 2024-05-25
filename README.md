@@ -9,9 +9,10 @@ High-performance video server in mini format
 - 2 x 3.5" SATA (3.0Gb/s, not included) max. 10TB
 - 1 x 16GB Micro SD Card
 - 4GB DDR4(8GB option)
-- 1 x USB 3.0 , 1x USB 2.0
-- 1 x HDMI (2.0 with HDCP support)
-- 1 x RJ45 LAN port (1000/100/10BASET)
+- 4 x USB 3.0
+- 1 x HDMI
+- 1 x VGA
+- 2 x RJ45 LAN port (1000/100/10BASET)
 
 # MainBoard
 ![SBC](./Documents/PCB%20Functions.png)
